@@ -1,0 +1,12 @@
+html, body{
+  margin: 0px;
+  padding: 0px;
+  background: #000000;
+}
+.background{
+  position: absolute;
+  display: block;
+  top: 0px;
+  left: 0px;
+  z-index: 0;
+}
